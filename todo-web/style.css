@@ -1,0 +1,23 @@
+h5 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+li{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-bottom:1 px;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.inputform{
+    display: flex;
+    justify-content: center;
+}
